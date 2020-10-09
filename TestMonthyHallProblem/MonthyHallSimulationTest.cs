@@ -10,7 +10,7 @@ namespace TestMonthyHallProblem
         public void TestMonthyHallSimulation_VaidNoOfAttempts()
         {
             int NoofAttempts = 1000;
-            bool ischoice = false;
+            bool ischoice = false; 
             //int expectedresult_1 = 0;
             MonthyHallProblem.BusinessClass.SimulationResult result;
             MonthyHallProblem.BusinessClass.SimulationResult expectedresult = new MonthyHallProblem.BusinessClass.SimulationResult();
